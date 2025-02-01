@@ -6,3 +6,6 @@ venv/
 /container/prometheus/*
 .lycheecache
 *.iml
+
+vendor
+dice

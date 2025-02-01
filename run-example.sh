@@ -2,5 +2,5 @@
 
 set -euo pipefail
 
-cd examples/java
+cd examples/go
 ./run.sh
